@@ -1,5 +1,7 @@
 # APPLICATION USING TCP SOCKETS - CREATING ECHO CLIENT-SERVER
 
+
+
 # EXP: 8
 
 # DATE:26-04-2023
@@ -38,11 +40,9 @@ while True:
 ```
    
 # CLIENT OUTPUT : 
-![image](https://github.com/SudharsanamRK/EX-8/assets/115523484/d7dd9d06-1e79-4bca-b7dc-d3dc7daabece)
-
+![image](https://github.com/BharathJayachandran/EX-8/assets/122089525/1b07549f-5174-4f65-87c0-892bda16d214)
 # SERVER OUTPUT :
-![image](https://github.com/SudharsanamRK/EX-8/assets/115523484/b08b7e8a-5f67-4a15-bafa-63b05e9d14e5)
-
+![image](https://github.com/BharathJayachandran/EX-8/assets/122089525/48fca2cf-6124-44a4-b63a-771c5b372ce3)
 
 # RESULT:
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links
